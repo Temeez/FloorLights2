@@ -49,6 +49,10 @@
     <rotatable>false</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightSquare">
@@ -117,6 +121,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightStripe">
@@ -185,6 +193,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightSmallStripe">
@@ -254,6 +266,10 @@
     <rotatable>false</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightPlus">
@@ -322,6 +338,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightCorner">
@@ -391,6 +411,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCorner">
@@ -460,6 +484,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightCornerSmall">
@@ -529,6 +557,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCornerSmall">
@@ -598,6 +630,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightStripeMiddle">
@@ -667,6 +703,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightSmallStripeMiddle">
@@ -736,6 +776,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightSmallStripeDiagonal">
@@ -805,6 +849,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightTriangleCorner">
@@ -874,6 +922,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightTriangle">
@@ -942,6 +994,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightPathEnd">
@@ -1007,6 +1063,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightPathLine">
@@ -1072,6 +1132,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightPathCorner">
@@ -1083,7 +1147,7 @@
     </graphicData>
     <comps>
       <li Class="CompProperties_Glower">
-        <glowRadius>9</glowRadius>
+        <glowRadius>6</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
         <colorPickerEnabled>true</colorPickerEnabled>
         <darklightToggle>true</darklightToggle>
@@ -1137,6 +1201,10 @@
     <rotatable>false</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightPathPlus">
@@ -1148,7 +1216,7 @@
     </graphicData>
     <comps>
       <li Class="CompProperties_Glower">
-        <glowRadius>9</glowRadius>
+        <glowRadius>7</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
         <colorPickerEnabled>true</colorPickerEnabled>
         <darklightToggle>true</darklightToggle>
@@ -1202,6 +1270,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightT">
@@ -1213,7 +1285,7 @@
     </graphicData>
     <comps>
       <li Class="CompProperties_Glower">
-        <glowRadius>9</glowRadius>
+        <glowRadius>7</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
         <colorPickerEnabled>true</colorPickerEnabled>
         <darklightToggle>true</darklightToggle>
@@ -1256,6 +1328,10 @@
     <rotatable>false</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorTileLightSquare">
@@ -1338,6 +1414,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightSmallDStripe">
@@ -1404,6 +1484,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightEndSmall">
@@ -1470,6 +1554,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCornerCSmall">
@@ -1536,6 +1624,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCorner2Small">
@@ -1602,6 +1694,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCorner3Small">
@@ -1668,6 +1764,10 @@
     <rotatable>true</rotatable>
     <clearBuildingArea>false</clearBuildingArea>
     <researchPrerequisites><li>Electricity</li></researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_GlowRadius</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
 
   <ThingDef ParentName="FloorLightInverseCorner4Small">
